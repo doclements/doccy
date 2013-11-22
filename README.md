@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/jackfranklin/doccy.png)](https://travis-ci.org/jackfranklin/doccy)
 ```
-$ npm install -g doccy
+$ npm install -g git+https://github.com/doclements/doccy.git
 ```
 
 Automatic generation of documentation READMEs.
