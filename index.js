@@ -53,9 +53,7 @@ var doccy = {
     var contents = toWrite.join("\n\n");
     fs.writeFile(output, contents, function(err) {
       if(err) console.log(err);
-      console.log("File " + output + " written.");
       if (_done) {
-       console.log('exectuing DONE');
         _done();
       }
       
