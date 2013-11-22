@@ -1,6 +1,6 @@
 ## Doccy
 
-[![Build Status](https://travis-ci.org/jackfranklin/doccy.png)](https://travis-ci.org/jackfranklin/doccy)
+[![Build Status](https://travis-ci.org/doclements/doccy.png?branch=master)](https://travis-ci.org/doclements/doccy)
 ```
 $ npm install -g git+https://github.com/doclements/doccy.git
 ```
